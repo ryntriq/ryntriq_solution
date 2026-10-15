@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700" viewBox="0 0 700 700" role="img" aria-labelledby="t d">
+<title id="t">RYNTRIQ Fusion stacked logo</title><desc id="d">The Fusion geometric mark above the RYNTRIQ name, with no tagline, on a transparent background.</desc>
+<defs><linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#55DDF9"/><stop offset=".55" stop-color="#258EFF"/><stop offset="1" stop-color="#4772E8"/></linearGradient></defs>
+<g transform="translate(156 65) scale(2.05)" fill="none" stroke-linecap="square" stroke-linejoin="bevel">
+ <path d="M23 18H105L138 51V84L105 117H69V165H23Z" stroke="url(#blue)" stroke-width="10"/>
+ <path d="M67 117L122 165H171L132 117" stroke="#90A5BC" stroke-width="8"/>
+ <path d="M141 32L174 65V97" stroke="#58DDF8" stroke-width="6"/>
+ <circle cx="174" cy="103" r="6" fill="#58DDF8" stroke="none"/>
+ <path d="M8 42H23M8 137H23" stroke="#58DDF8" stroke-width="5"/>
+</g>
+<text x="350" y="564" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="80" font-weight="800" letter-spacing="8" fill="#14243A">RYNTRI<tspan fill="#286FE0">Q</tspan></text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1050" viewBox="0 0 1500 1050" role="img" aria-labelledby="t d">
+<title id="t">RYNTRIQ Fusion color palette</title><desc id="d">Color palette extracted from the selected Fusion logo with HEX values and usage roles.</desc>
+<rect width="1500" height="1050" fill="#F2F5F8"/>
+<text x="80" y="77" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="4" fill="#708095">RYNTRIQ  /  FUSION BRAND COLORS</text>
+<text x="80" y="135" font-family="Arial,sans-serif" font-size="43" font-weight="800" fill="#14243A">Color system</text>
+<text x="80" y="174" font-family="Arial,sans-serif" font-size="17" fill="#63748A">The selected Fusion logo’s blue signal, cool steel and deep navy.</text>
+<text x="80" y="238" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3" fill="#718096">BRAND COLORS</text>
+<g font-family="Arial,sans-serif">
+ <rect x="80" y="260" width="315" height="190" rx="18" fill="#55DDF9"/><text x="106" y="379" font-size="19" font-weight="700" fill="#0B2840">Signal Cyan</text><text x="106" y="415" font-size="17" fill="#0B2840">#55DDF9</text>
+ <rect x="415" y="260" width="315" height="190" rx="18" fill="#258EFF"/><text x="441" y="379" font-size="19" font-weight="700" fill="#FFFFFF">Electric Blue</text><text x="441" y="415" font-size="17" fill="#FFFFFF">#258EFF</text>
+ <rect x="750" y="260" width="315" height="190" rx="18" fill="#4772E8"/><text x="776" y="379" font-size="19" font-weight="700" fill="#FFFFFF">Deep Blue</text><text x="776" y="415" font-size="17" fill="#FFFFFF">#4772E8</text>
+ <rect x="1085" y="260" width="335" height="190" rx="18" fill="#90A5BC"/><text x="1111" y="379" font-size="19" font-weight="700" fill="#102039">Cool Steel</text><text x="1111" y="415" font-size="17" fill="#102039">#90A5BC</text>
+</g>
+<text x="80" y="515" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3" fill="#718096">FOUNDATION & BACKGROUNDS</text>
+<g font-family="Arial,sans-serif">
+ <rect x="80" y="537" width="315" height="170" rx="18" fill="#14243A"/><text x="106" y="636" font-size="19" font-weight="700" fill="#FFFFFF">Wordmark Navy</text><text x="106" y="672" font-size="17" fill="#D3E0EF">#14243A</text>
+ <rect x="415" y="537" width="315" height="170" rx="18" fill="#091322"/><text x="441" y="636" font-size="19" font-weight="700" fill="#FFFFFF">Night Base</text><text x="441" y="672" font-size="17" fill="#D3E0EF">#091322</text>
+ <rect x="750" y="537" width="315" height="170" rx="18" fill="#111D32"/><text x="776" y="636" font-size="19" font-weight="700" fill="#FFFFFF">Banner Navy</text><text x="776" y="672" font-size="17" fill="#D3E0EF">#111D32</text>
+ <rect x="1085" y="537" width="335" height="170" rx="18" fill="#F5F8FC" stroke="#DCE4EC" stroke-width="2"/><text x="1111" y="636" font-size="19" font-weight="700" fill="#14243A">Cloud White</text><text x="1111" y="672" font-size="17" fill="#53657C">#F5F8FC</text>
+</g>
+<rect x="80" y="764" width="1340" height="205" rx="20" fill="#FFFFFF"/>
+<text x="112" y="810" font-family="Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3" fill="#718096">SUGGESTED USE</text>
+<rect x="112" y="840" width="28" height="28" rx="7" fill="#258EFF"/><text x="154" y="861" font-family="Arial,sans-serif" font-size="17" fill="#14243A">Electric blue for the main mark, links and primary actions.</text>
+<rect x="112" y="884" width="28" height="28" rx="7" fill="#55DDF9"/><text x="154" y="905" font-family="Arial,sans-serif" font-size="17" fill="#14243A">Cyan for highlights, signal points and small accents.</text>
+<rect x="760" y="840" width="28" height="28" rx="7" fill="#14243A"/><text x="802" y="861" font-family="Arial,sans-serif" font-size="17" fill="#14243A">Navy for text and light-background layouts.</text>
+<rect x="760" y="884" width="28" height="28" rx="7" fill="#091322"/><text x="802" y="905" font-family="Arial,sans-serif" font-size="17" fill="#14243A">Night base for banners, product screens and dark layouts.</text>
+</svg>
